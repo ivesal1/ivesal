@@ -6,9 +6,9 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ispooya" alt="ispooya" /></a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ispooya&show_icons=true&locale=en" alt="ispooya" /></p>
+<!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ispooya&show_icons=true&locale=en" alt="ispooya" /></p-->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ispooya&show_icons=true&locale=en&layout=compact" alt="ispooya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ispooya&show_icons=true&locale=en&layout=compact" alt="ispooya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ispooya&" alt="ispooya" /></p>
 

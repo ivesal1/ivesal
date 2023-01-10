@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pooya</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ispooya&label=Profile%20views&color=0e75b6&style=flat" alt="ispooya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ispooya&label=Profile%20views&color=0e75b6&style=flat&margin-w=15" alt="ispooya" /> </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ispooya" alt="ispooya" /></a> 

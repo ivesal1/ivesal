@@ -13,9 +13,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ispooya&" alt="ispooya" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ispooya&show_icons=true&locale=en&layout=compact" alt="ispooya" />
-</p>
+<!-- <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ispooya&show_icons=true&locale=en&layout=compact" />
+</p> -->
 
 ## Connect with me  
 <div align="center">
